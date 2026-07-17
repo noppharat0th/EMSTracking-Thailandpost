@@ -16,7 +16,6 @@ if (isset($_GET['number']) && !empty($_GET['number'])) {
 }
 ?>
 
-<!-- --- ส่วน Frontend (หน้าเว็บ) --- -->
 <!DOCTYPE html>
 <html lang="th">
 <head>
